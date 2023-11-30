@@ -1,0 +1,23 @@
+/* all */
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.light-text
+{
+    color: rgb(137, 136, 136);
+}
+
+/* home */
+.home-books > div
+{
+    margin-bottom: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
